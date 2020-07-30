@@ -5,3 +5,9 @@
 .icons {
     font-size: 44px;
 }
+
+.carousel-img{
+overflow: hidden;
+height: 100%;
+width: auto;
+}
