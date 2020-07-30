@@ -16,3 +16,7 @@ width: auto;
     max-height: 400px;
     overflow: hidden;
   }
+
+body {
+    overflow-x: hidden;
+}
