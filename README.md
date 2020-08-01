@@ -6,6 +6,11 @@ This is the second version of my personal portfolio.  This website is meant to b
 
 ## Screenshots
 
+<img width="1680" alt="Screen Shot 2020-07-31 at 10 03 53 PM" src="https://user-images.githubusercontent.com/64296192/89094562-fc8faf80-d379-11ea-8573-28f6fa450600.png">
+<img width="1680" alt="Screen Shot 2020-07-31 at 10 04 12 PM" src="https://user-images.githubusercontent.com/64296192/89094563-ff8aa000-d379-11ea-86ba-36d0359482b6.png">
+<img width="1680" alt="Screen Shot 2020-07-31 at 10 04 34 PM" src="https://user-images.githubusercontent.com/64296192/89094564-044f5400-d37a-11ea-87d2-4fb48e8b9d7a.png">
+<img width="1680" alt="Screen Shot 2020-07-31 at 10 04 50 PM" src="https://user-images.githubusercontent.com/64296192/89094566-074a4480-d37a-11ea-904a-8e67d604b6e1.png">
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -26,7 +31,7 @@ N/A
 
 ## Credits 
 
-N/A
+Bootstrap Theme from colorlib.com
 
 ## License
 
