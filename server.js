@@ -17,12 +17,8 @@ app.use(express.json());
 // use the public folder
 app.use(express.static('public'));
 
-// Routing
-const htmlRoutes = require('./controllers/htmlRoutes');
+const htmlRoutes = require('./routes/html-routes');
 app.use(htmlRoutes);
-
-const apiRoutes = require('./controllers/apiRoutes');
-app.use(apiRoutes);
 
 // Start the Server
 app.listen(PORT, function() {
